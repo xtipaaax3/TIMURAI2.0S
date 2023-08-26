@@ -64,7 +64,7 @@ const EmptyChatPlaceholder: FC<EmptyChatPlaceholderProps> = function EmptyChatPl
                 Može dati ne tacnu informaciju ( JAAKO RIJETKO )
               </li>
               <li className="w-full bg-gray-50 dark:bg-white/5 p-3 rounded-md">
-                Ima znanje do 2023 godine, poslje NE!
+                Ima znanje do 2023 godine, poslje NE!w
               </li>
               <li className="w-full bg-gray-50 dark:bg-white/5 p-3 rounded-md">
              
